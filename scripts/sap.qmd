@@ -34,17 +34,28 @@ Break down the general research objective into specific aims. These should be cl
 
 **Anticipated Problems and Alternative Approaches:**
 
+Identifing potential challenges and weaknesses in a study's design and execution before they occur enhances a study's rigor and increases the likelihood of achieving meaningful, reproducible results.
+
 - Discuss potential challenges that may arise during your research, as well as how you plan to address them.
 - Include contingency plans for unexpected results or complications.
 - Consider possible alternative approaches or methods that could be used if the primary approach doesn't work out.
+
+Steps for performing a [premortem on your research](https://www.nature.com/articles/d41586-024-02344-2)
+
+1. Picture problems: What catastrophic failures can you imagine?
+2. Pinpoint pitfalls: What specific issues could cause these failures?
+3. Perceive Patterns: Which warning signs might indicate these issues?
+4. Plan Precautions: Which steps can you take to prevent these problems? 
+5. Periodic Progress: How often will you revise and revise your plan? 
 
 **Secondary, exploratory analysis:** 
 
 - Explain any additional analyses you plan to conduct that are not directly tied to testing your hypothesis. This could include examining relationships between variables not included in your primary analysis, or investigating unexpected findings.
 - Note that while these analyses may provide interesting additional insights, they are considered exploratory because they were not part of the original research plan.
 
+
 ### Gantt Chart 
-- Use a Gantt Chart to visualize and manage the timeline of various analytical tasks and project milestones. This allows researchers to easily see the sequence of tasks, their durations, and any dependencies between them.
+- Use a [Gantt Chart](https://www.nature.com/articles/d41586-022-04364-2) to visualize and manage the timeline of various analytical tasks and project milestones. This allows researchers to easily see the sequence of tasks, their durations, and any dependencies between them.
 
 ### References 
 - List of references 
